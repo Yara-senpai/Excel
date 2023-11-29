@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba1_Excel", "Laba1_Excel\Laba1_Excel.csproj", "{176AA280-9099-4AB3-858F-7659082DE324}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{176AA280-9099-4AB3-858F-7659082DE324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176AA280-9099-4AB3-858F-7659082DE324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176AA280-9099-4AB3-858F-7659082DE324}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{176AA280-9099-4AB3-858F-7659082DE324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176AA280-9099-4AB3-858F-7659082DE324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{176AA280-9099-4AB3-858F-7659082DE324}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7568C0A7-82F5-4A0C-AF82-77BC839ECDD6}
+	EndGlobalSection
+EndGlobal
